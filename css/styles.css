@@ -45,3 +45,44 @@ color: white;
 {
     padding: 0 18px;
 }
+.download_button
+{
+    margin:5% 5% 0% 0;
+}
+.iphoneimg
+{
+    width: 60%;
+    transform: rotate(20deg);
+}
+h1:hover{
+
+ color  : black;
+}
+.featuresdiv
+
+{
+    text-align: center;
+    margin: 10% 10% 10% 10%;
+    
+}
+h3
+{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.feature_icons
+{
+ color:   #ff4c68;
+ margin:auto;
+}
+.features_p
+{
+    width: 70%;
+    margin: auto;
+    color: #8f8f8f;
+}
+.features_col
+{
+    margin-bottom: 5%;
+}
+
