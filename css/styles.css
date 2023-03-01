@@ -2,3 +2,16 @@
 {
     background-color: #ff4c68;
 }
+
+h1
+{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.container-fluid
+{
+padding: 3% 15%;
+}
