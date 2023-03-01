@@ -1,17 +1,47 @@
+
+body
+{
+    font-family: "Montserrat";
+}
 #title
 {
     background-color: #ff4c68;
+    color: #fff;
 }
 
 h1
 {
-    font-family: 'Montserrat';
+    font-family: "Montserrat-Black";
     font-size: 3rem;
     line-height: 1.5;
-    font-weight: bold;
+    font-weight: bolder;
+    
 }
 
 .container-fluid
 {
 padding: 3% 15%;
+}
+.navbar-brand
+{
+    font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+color: white;
+}
+.navbar
+{
+    padding-bottom: 4.5rem;
+    
+}
+
+.nav-link
+{
+    
+    color: white;
+
+}
+.nav-item
+{
+    padding: 0 18px;
 }
