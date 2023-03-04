@@ -53,6 +53,7 @@ color: white;
 {
     width: 60%;
     transform: rotate(20deg);
+    margin: 10% 0 10% 0;
 }
 h1:hover{
 
@@ -62,7 +63,7 @@ h1:hover{
 
 {
     text-align: center;
-    margin: 10% 10% 10% 10%;
+    margin: 10% 10% 5% 10%;
     
 }
 h3
@@ -85,4 +86,36 @@ h3
 {
     margin-bottom: 5%;
 }
+#testimonials
+{
+    text-align: center;
+background-color:   #ff4c68;
+}
+h2{
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color: white;
+    padding:0% 15% 0% 15% ;
 
+    
+}
+.imgdog
+{
+    width: 10%;
+    border-radius: 100%;
+   
+   margin-bottom: 3%;
+}
+#press
+{
+    text-align: center;
+    background-color:   #ff4c68;
+    
+}
+.brandname
+{
+    width: 20%;
+    margin-bottom: 5%;
+}
