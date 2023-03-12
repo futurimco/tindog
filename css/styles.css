@@ -68,7 +68,7 @@ h1:hover{
 }
 h3
 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: bold;
 }
 .feature_icons
@@ -92,12 +92,12 @@ h3
 background-color:   #ff4c68;
 }
 h2{
-    font-family: "Montserrat-Black";
+    font-family: "Montserrat";
     font-size: 3rem;
     line-height: 1.5;
     font-weight: bolder;
     color: white;
-    padding:0% 15% 0% 15% ;
+    padding:0% 18% 0% 18% ;
 
     
 }
@@ -107,9 +107,11 @@ h2{
     border-radius: 100%;
    
    margin-bottom: 3%;
+   margin-left: 13%;
 }
 #press
 {
+    margin-top: 0;
     text-align: center;
     background-color:   #ff4c68;
     
@@ -118,4 +120,22 @@ h2{
 {
     width: 20%;
     margin-bottom: 5%;
+}
+.pricingdiv
+{
+    text-align: center;
+}
+#pricing_heading
+{
+    color: black;
+    font-size: 2rem;
+    margin-top: 100px;
+}
+.mn
+{
+ width: 400px;
+}
+.md{
+    margin-top: 100px;
+
 }
