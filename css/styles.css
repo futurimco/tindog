@@ -118,12 +118,15 @@ h2{
 }
 .brandname
 {
-    width: 20%;
+    width: 10%;
     margin-bottom: 5%;
+    margin-right: 110px;
+    margin-left: 17px;
 }
 .pricingdiv
 {
     text-align: center;
+  
 }
 #pricing_heading
 {
@@ -131,11 +134,69 @@ h2{
     font-size: 2rem;
     margin-top: 100px;
 }
-.mn
-{
- width: 400px;
-}
+
 .md{
     margin-top: 100px;
 
 }
+.card{
+    width: 350px;
+
+}
+.row
+{
+    padding-left: 50px;
+
+}
+#cta{
+    background-color:   #ff4c68;
+    height: 400px;
+    text-align: center;
+    margin-top: 110px;
+}
+.ctah3
+{
+    font-size: 3.5rem;
+    color: white;
+padding-top: 60px;
+width: 1000px;
+margin: auto;
+}
+.btndiv
+{
+    margin-left: 91px;
+}
+#footer
+{
+    text-align: center;
+   
+}
+.ft 
+{
+    width: 100px;
+}
+.mr
+{
+    margin-right: 60px;
+    margin-top: 110px;
+   
+}
+ .cr 
+ {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: "Ubuntu";
+ }
+ .cm
+ {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: "Ubuntu";
+ }
+
+ .footerdiv
+ {
+    margin-left: 60px;
+ }
