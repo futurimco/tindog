@@ -133,17 +133,21 @@ h2{
     color: black;
     font-size: 2rem;
     margin-top: 100px;
+    width: 100%;
 }
 
 .md{
     margin-top: 100px;
+  margin-right: 20px;
+
+ 
 
 }
 .card{
-    width: 350px;
+   
 
 }
-.row
+.mk
 {
     padding-left: 50px;
 
@@ -153,13 +157,14 @@ h2{
     height: 400px;
     text-align: center;
     margin-top: 110px;
+    width: 100%;
 }
 .ctah3
 {
     font-size: 3.5rem;
     color: white;
 padding-top: 60px;
-width: 1000px;
+width: 100%;
 margin: auto;
 }
 .btndiv
@@ -179,6 +184,7 @@ margin: auto;
 {
     margin-right: 60px;
     margin-top: 110px;
+  
    
 }
  .cr 
@@ -199,4 +205,11 @@ margin: auto;
  .footerdiv
  {
     margin-left: 60px;
+ }
+ .mn{
+    margin-bottom: 20px;
+ }
+ .cardcontainer
+ {
+  margin: auto;
  }
