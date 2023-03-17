@@ -213,3 +213,16 @@ margin: auto;
  {
   margin: auto;
  }
+.logo
+{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 8%;
+    z-index: 1;
+    /* code for rotation element */
+    /* transform-origin: center center;
+    transition: transform 0.1s ease; */
+    
+     
+}
