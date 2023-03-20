@@ -10,6 +10,7 @@ body
   padding-bottom: 7%;
 
 
+
     
 }
 
@@ -56,11 +57,9 @@ color: white;
 .iphoneimg
 {
     transform: rotate(25deg);
-    margin: 10% 6%;
+    width: 60%;
     position: absolute;
-    z-index: 0;
-    top: -15%;
-  width:60%;
+    right: 30%;
 
     
 
@@ -71,23 +70,21 @@ h1:hover{
 }
 
 
-.features
+#features
 {
-position: relative;
-z-index: 1;
-background-color: black;
+    padding: 7% 15%;
+    text-align: center;
+    line-height: 1.5;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
 
 }
 .featuresdiv
 
 {
-    text-align: center;
-   padding: 10% 10% 5% 10%; 
-   background-color: white;
-   position: relative;
-   background-color: white;
-   z-index: 1;
     
+  
     
 
 }
@@ -172,15 +169,7 @@ h2{
    
 
 }
-.mk
-{
-    padding-left: 50px;
-    
-    
-    
-   
 
-}
 #cta{
     background-color:   #ff4c68;
     height: 400px;
@@ -255,7 +244,37 @@ margin: auto;
     
      
 }
-.dn 
+.cl 
 {
     position: relative;
 }
+@media (max-width: 1028px) {
+    #title {
+      text-align: center;
+    }
+    .iphoneimg {
+        margin-top: 20px;
+      position: static;
+      transform: rotate(0);
+    }
+    .ctah3
+    {
+        font-size: 2.5rem;
+        color: white;
+    padding-top: 60px;
+    width: 100%;
+    margin: auto;
+    }
+    #cta{
+        background-color:   #ff4c68;
+        height: 300px;
+        text-align: center;
+        margin-top: 110px;
+        width: 100%;
+    }
+    h2
+    {
+        font-size: 1rem;
+    }
+
+  }
