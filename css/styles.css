@@ -59,8 +59,8 @@ color: white;
     margin: 10% 6%;
     position: absolute;
     z-index: 0;
-    top: 9.3%;
-    height:87%;
+    top: -15%;
+  width:60%;
 
     
 
@@ -254,4 +254,8 @@ margin: auto;
     transition: transform 0.1s ease; */
     
      
+}
+.dn 
+{
+    position: relative;
 }
