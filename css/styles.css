@@ -7,6 +7,10 @@ body
 {
     background-color: #ff4c68;
     color: #fff;
+  padding-bottom: 7%;
+
+
+    
 }
 
 h1
@@ -51,20 +55,41 @@ color: white;
 }
 .iphoneimg
 {
-    width: 60%;
-    transform: rotate(20deg);
-    margin: 10% 0 10% 0;
+    transform: rotate(25deg);
+    margin: 10% 6%;
+    position: absolute;
+    z-index: 0;
+    top: 9.3%;
+    height:87%;
+
+    
+
 }
 h1:hover{
 
  color  : black;
 }
+
+
+.features
+{
+position: relative;
+z-index: 1;
+background-color: black;
+
+}
 .featuresdiv
 
 {
     text-align: center;
-    margin: 10% 10% 5% 10%;
+   padding: 10% 10% 5% 10%; 
+   background-color: white;
+   position: relative;
+   background-color: white;
+   z-index: 1;
     
+    
+
 }
 h3
 {
@@ -150,6 +175,10 @@ h2{
 .mk
 {
     padding-left: 50px;
+    
+    
+    
+   
 
 }
 #cta{
